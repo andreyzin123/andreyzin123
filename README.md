@@ -8,5 +8,5 @@ Me chamo Andrey, mais conhecido como Felipe Neto
 ![](https://media1.tenor.com/m/SpgiJT_iAYIAAAAC/what-the-duck-wtd.gif)
 
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?9FB2CD3CCC330F624951A3C2CA492DBB42C0
+https://prod.liveshare.vsengsaas.visualstudio.com/join?B96DFAC800BE2CA337F8B15E21FC43561CCE
 
